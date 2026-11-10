@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#000"/>
+  <!-- Vector reconstruction of the V in the original VXSH wordmark. -->
+  <path d="M13 7h17l-1 24 6-24h16L34 57H18Z" fill="#172323"/>
+  <g fill="none" stroke-linecap="butt" stroke-linejoin="miter">
+    <path d="m13 7 5 50M35 7l-4 13" stroke="#ff080c" stroke-width="2.5"/>
+    <path d="m30 7-1 24M51 7 34 57" stroke="#00ffff" stroke-width="2.5"/>
+  </g>
+</svg>
